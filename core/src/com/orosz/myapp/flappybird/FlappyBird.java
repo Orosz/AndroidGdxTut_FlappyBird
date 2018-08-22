@@ -121,7 +121,7 @@ public class FlappyBird extends ApplicationAdapter {
 
                 score++;
 
-                Gdx.app.log("Score", String.valueOf(score));
+                //Gdx.app.log("Score", String.valueOf(score));
 
                 if (scoringTube < numberOfTubes - 1) {
 
